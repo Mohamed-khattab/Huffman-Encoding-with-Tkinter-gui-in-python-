@@ -1,1 +1,1 @@
-# Compress-your-Text-File-Using-Huffman-Algorithm-
+# Compress your Text File Using Huffman Encoding Algorithm
