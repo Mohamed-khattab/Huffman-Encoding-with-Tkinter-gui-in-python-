@@ -1,1 +1,1 @@
-# Huffman-ing-with-Tkinter-gui-in-python-
+# Compress-your-Text-File-Using-Huffman-Algorithm-
