@@ -1,1 +1,1 @@
-# Huffman-Encoding-with-Tkinter-gui-in-python-
+# Huffman-ing-with-Tkinter-gui-in-python-
